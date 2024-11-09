@@ -5,6 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+venv/
+/venv
+.vscode/
+/.vscode
+.idea
+similarity.pkl
 
 # Distribution / packaging
 .Python
